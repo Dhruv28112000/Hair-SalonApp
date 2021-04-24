@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40589647060",
+    "firebase_url": "https://salon-booking-a962b-default-rtdb.firebaseio.com",
+    "project_id": "salon-booking-a962b",
+    "storage_bucket": "salon-booking-a962b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40589647060:android:07957fa17f830ec2d4ef41",
+        "android_client_info": {
+          "package_name": "com.example.saloon_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40589647060-lel0c38ibm5fgkunpq3eobqlucioloka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saloon_booking",
+            "certificate_hash": "f5e86ad7159c94718b0016e5c9ac1789e10da646"
+          }
+        },
+        {
+          "client_id": "40589647060-uv9m6niu74g7lsuph1kqdjoc9fkg582i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsYVP2DZbzaQJlgbTXh2ORwc-rVGlRHsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40589647060-uv9m6niu74g7lsuph1kqdjoc9fkg582i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
